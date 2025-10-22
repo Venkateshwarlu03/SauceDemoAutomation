@@ -35,6 +35,7 @@ This project is an **End-to-End Selenium Automation Framework** using **Java**, 
 ## Contact
 Author: Venkat  
 GitHub: [Venkateshwarlu03](https://github.com/Venkateshwarlu03)
+Email: mala.venkateshwarlu.009@gmail.com
 
 This framework can be used as a template for professional Selenium automation projects, suitable for learning, interviews, and real-world testing.
 
